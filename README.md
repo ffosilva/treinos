@@ -7,7 +7,7 @@
 | Z5 | 176-190     |
 
 Baseado em % HRR, com frequência de repouso 53 BPM e frequência máxima em 190 BPM.
-
+Atualizado em 01/09/2024
 
 ## 19/10/2024 - 21K de Pipa
 | **Semana**  | **Data**       | **Dia**       | **Treino**                                                       | **Macro Ciclo** | **Micro Ciclo** |
