@@ -80,7 +80,7 @@ Atualizado em 01/09/2024
 | 7      | 09/12/2024 | Segunda-feira | Intervalos - 4x2 km Z4 com 2' descanso ativo | Base             | Construção        |
 | 7      | 11/12/2024 | Quarta-feira  | Fartlek - 10 min. aquecimento + 12x(2' Z4/2' Z2) + 10 min. desaquecimento | Base             | Construção        |
 | 7      | 13/12/2024 | Quinta-feira  | Regenerativo - 55 minutos Z2           | Base             | Construção        |
-| 7      | 15/12/2024 | Sábado        | Longão - 24 km Z2                      | Base             | Construção        |
+| 7      | 15/12/2024 | Sábado        | Prova - 5km Circuito das Estações      | Base             | Construção        |
 | 8      | 16/12/2024 | Segunda-feira | Intervalos - 3x3 km Z4 com 3' descanso ativo | Base             | Construção        |
 | 8      | 18/12/2024 | Quarta-feira  | Fartlek - 10 min. aquecimento + 14x(2' Z4/2' Z2) + 10 min. desaquecimento | Base             | Construção        |
 | 8      | 20/12/2024 | Quinta-feira  | Regenerativo - 60 minutos Z2           | Base             | Construção        |
