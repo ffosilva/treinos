@@ -49,6 +49,40 @@ Atualizado em 01/09/2024
 |             | 17/10/2024     | Quinta-feira  | Regenerativo: Corrida leve de 30-40 min em Z1/Z2                 | Polimento       | Polimento        |
 |             | 19/10/2024     | Sábado        | **Meia Maratona**                                                | Prova           | Prova            |
 
+### Semana Pós-Meia Maratona
+#### Segunda-feira (Dia 1):
+
+Descanso ou Caminhada Leve
+Permita que seu corpo descanse. Se quiser se movimentar, uma caminhada leve de 20-30 minutos é uma boa opção para promover a circulação e ajudar na recuperação muscular.
+
+#### Terça-feira (Dia 2):
+
+Atividade Leve
+Faça uma sessão de cross-training leve, como ciclismo ou natação, por cerca de 30-40 minutos. Isso ajuda a manter o corpo ativo sem impacto nas articulações.
+Quarta-feira (Dia 3):
+
+#### Corrida Leve (Z1/Z2)
+Uma corrida regenerativa de 4 a 6 km em um ritmo muito leve, focando na recuperação ativa e na circulação. Evite correr rápido e mantenha-se nas zonas de baixa intensidade.
+
+#### Quinta-feira (Dia 4):
+
+Descanso ou Yoga/Alongamento
+Dia de descanso ou uma sessão de alongamento profundo ou yoga para melhorar a flexibilidade e relaxar a musculatura.
+
+#### Sexta-feira (Dia 5):
+
+Corrida Leve (Z1/Z2)
+Corrida leve de 5 a 6 km, novamente focada em um ritmo fácil. Mantenha o foco em boa forma, evitando qualquer esforço excessivo.
+
+#### Sábado (Dia 6):
+
+Cross-Training ou Ciclismo Leve
+Uma atividade aeróbica leve de 40-60 minutos, como ciclismo ou natação. Evite exercícios de alta intensidade.
+#### Domingo (Dia 7):
+
+Descanso Completo
+Aproveite o dia para descansar e se preparar mentalmente e fisicamente para voltar a treinos normais na semana seguinte.
+
 ## 20/04/2025 - Maratona de João Pessoa
 
 | Semana | Data       | Dia           | Treino                                  | Macro Ciclo      | Micro Ciclo       |
