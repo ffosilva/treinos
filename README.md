@@ -24,7 +24,7 @@ Atualizado em 01/09/2024
 |             | 04/09/2024     | Quarta-feira  | Fartlek: 10 min aquecimento + 5x3 min em Z4 + 2 min em Z1/Z2 entre cada + 10 min desaquecimento | Desenvolvimento 1 | Construção      |
 |             | 05/09/2024     | Quinta-feira  | Regenerativo: Corrida leve de 40-50 min em Z1/Z2                 | Desenvolvimento 1 | Construção      |
 |             | 07/09/2024     | Sábado        | Longão: 18 km progressivo 6km Z2, 6km Z3, 6km Z4                 | Desenvolvimento 1 | Construção      |
-| **Semana 4**| 09/09/2024     | Segunda-feira | Intervalos: 10 min aquecimento + 8x800m em Z4/Z5 com 400m de trote entre as repetições + 10 min desaquecimento| Desenvolvimento 1 | Construção      |
+| **Semana 4**| 09/09/2024     | Segunda-feira | Intervalos: 10 min aquecimento + 8x800m em Z4/Z5 com 2 min de descanso ativo entre as repetições + 10 min desaquecimento| Desenvolvimento 1 | Construção      |
 |             | 11/09/2024     | Quarta-feira  | Fartlek: 10 min aquecimento + 6x3 min em Z4 + 2 min em Z1/Z2 entre cada + 10 min desaquecimento | Desenvolvimento 1 | Construção      |
 |             | 12/09/2024     | Quinta-feira  | Regenerativo: Corrida leve de 40-50 min em Z1/Z2                 | Desenvolvimento 1 | Construção      |
 |             | 14/09/2024     | Sábado        | Longão: 20 km em Z2                                              | Desenvolvimento 1 | Construção      |
