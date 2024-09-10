@@ -1,13 +1,12 @@
 | **Zona**  | **Faixa de frequência**       |
 |-------------|----------------|
-| Z1 | 122-135     |
-| Z2 | 135-149     |
-| Z3 | 149-163     |
-| Z4 | 163-176     |
-| Z5 | 176-190     |
+| Z1 | 112-138     |
+| Z2 | 138-154     |
+| Z3 | 154-164     |
+| Z4 | 164-173     |
+| Z5 | 173-190     |
 
-Baseado em % HRR, com frequência de repouso 53 BPM e frequência máxima em 190 BPM.
-Atualizado em 01/09/2024
+Baseado em limiar de lactato, de 173bpm. Atualizado em 10/09/2024
 
 ## 19/10/2024 - 21K de Pipa
 | **Semana**  | **Data**       | **Dia**       | **Treino**                                                       | **Macro Ciclo** | **Micro Ciclo** |
